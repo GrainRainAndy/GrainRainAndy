@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GrainRain
+👋 Hi, I’m @GrainRain :)
   
-  Still a poor undergraduate @ Tsinghua University, majoring in (Mathematics and Physics) and Software Engineering.
-  
-- Currently, my interests focus on **AI agents**, especially **agent orchestration** and **multi-agent collaboration**.
+Still a poor undergraduate @ Tsinghua University, majoring in (Mathematics and Physics) and Software Engineering.
+
+Currently, my interests focus on **AI agents**, especially **agent orchestration** and **multi-agent collaboration**. Building on my practical experience in LLM pretraining and agentic infrastructure system, I hope to explore how agents can decompose complex tasks, share information, and coordinate effectively to solve problems better together.
 
 ### Selected Work
 
